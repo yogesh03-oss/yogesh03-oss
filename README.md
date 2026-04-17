@@ -4,7 +4,8 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Web Developer
+  🚀 Full Stack Web Developer...
+  🚀 Free Lanching...
 </h3>
 
 <!-- Typing Animation -->
